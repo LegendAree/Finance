@@ -1,4 +1,4 @@
-# Ameer Finance — 2026 PWA
+# Finance — 2026 PWA
 
 A private, offline-capable personal finance planner designed for iPhone and GitHub Pages. No account, backend, analytics, or third-party libraries are required.
 
